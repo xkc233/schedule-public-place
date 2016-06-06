@@ -7,3 +7,4 @@
 
 墙外的
   点击成专家！有意思的一个项目，关于计算机的（（https://github.com/vic317yeh/One-Click-to-Be-Pro
+  纽约的人   http://www.humansofnewyork.com/
