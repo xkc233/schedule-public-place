@@ -6,6 +6,8 @@
   
 报道larry pages的新闻会飞的车，英文（http://www.businessinsider.com
 
+是一个酷酷的类似国内计蒜客的网站https://www.freecodecamp.com
+
 墙外的
  
   点击成专家！有意思的一个项目，关于计算机的（（https://github.com/vic317yeh/One-Click-to-Be-Pro
